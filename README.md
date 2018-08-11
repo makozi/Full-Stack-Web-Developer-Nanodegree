@@ -22,7 +22,12 @@ A Full Stack Web Developer Nanodregree Curriculum
 
  <!-- - [x]  -->
   [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
+
+
+
  [Configuring Linux Web Servers](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
+
+ 
  [Version Control with Git](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
 
    [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456 ) 
@@ -78,7 +83,7 @@ A Full Stack Web Developer Nanodregree Curriculum
 
  [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
-   [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
+[Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 
 
 
