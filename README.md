@@ -1,8 +1,6 @@
 # Full-Stack-Web-Developer-Nanodegree
 
 
----
-
 ## Udacity Nanodegrees
 [Udacity](https://www.udacity.com/) offers some great content in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
@@ -26,12 +24,12 @@ A Full Stack Web Developer Nanodregree Curriculum
   - [ ]  [Configuring Linux Web Servers](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
   - [ ]  [Version Control with Git](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
 
-    - [ ]  [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456 ) 
+  - [ ]  [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456 ) 
 
-    - [ ]  [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206 )
+  - [ ]  [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206 )
 
 
-       - [ ]  [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 )
+  - [ ]  [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 )
 
 
    - [ ]  [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893 )
@@ -118,10 +116,3 @@ A Full Stack Web Developer Nanodregree Curriculum
 
 
 
-
-   
-       - [ ]  [](https://www.udacity.com/course/github-collaboration--ud456 )
-
-
-   - [ ]  [](https://www.udacity.com/course/github-collaboration--ud456 )
-   
