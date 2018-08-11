@@ -20,7 +20,7 @@ A Full Stack Web Developer Nanodregree Curriculum
 
 ## Goals
 
- - [ ]  [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
+ - [x]  [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
   - [ ]  [Configuring Linux Web Servers](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
   - [ ]  [Version Control with Git](https://www.udacity.com/course/linux-command-line-basics--ud595 ) 
 
